@@ -1,5 +1,4 @@
-@media screen and (max-width: 1920px) {
-  
+
 body{
       font-family: Consolas, Courier New, monospace;
       /* background-color: #e8e8e8; */
@@ -147,12 +146,10 @@ body{
       box-shadow: none;
     }
 
-}
 
 /* *telefon */
     
-@media screen and (max-width: 1080px) {
-  
+
     body{
           font-family: Consolas, Courier New, monospace;
           /* background-color: #e8e8e8; */
@@ -301,4 +298,3 @@ body{
           box-shadow: none;
         }
     
-}

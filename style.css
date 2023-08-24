@@ -144,16 +144,6 @@ body{
       -webkit-box-shadow: none;
       box-shadow: none;
     }
-/* 1 */
-div.player-container{
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
-div.controls{
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
-/* 1*/
 
 
     

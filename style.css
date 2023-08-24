@@ -6,30 +6,14 @@ body{
       color: var(--var-body-fc);
   }
 /* 1 */
-.theme {
-  margin-left: auto;
-  margin-right: auto;
-}
-.toggle-switch {
-  margin-left: auto;
-  margin-right: auto;
-}
-.switch-label {
-  margin-left: auto;
-  margin-right: auto;
-}
-.checkbox {
-  margin-left: auto;
-  margin-right: auto;
-}
-.slider {
-  margin-left: auto;
-  margin-right: auto;
-}
-.item__img {
-  margin-left: auto;
-  margin-right: auto;
-}
+div.player-container{
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+div.controls{
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
 /* 1*/
 
   button {
